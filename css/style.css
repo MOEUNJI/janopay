@@ -223,6 +223,7 @@ figure > img {
     display: flex;
     align-items: center;
     justify-content: center;
+    cursor: pointer;
 }
 
 .blue-text-btn > a {
